@@ -10,6 +10,8 @@ export default function Page() {
         <li><Link href="http://localhost:3000/week-3">week-3</Link></li>
         <li><Link href="/week-4">Week-4 </Link></li>
         <li><Link href="/week-5">week-5 </Link></li>
+        <li><Link href="/week-6">week-6 </Link></li>
+
         
 
       </ul>
